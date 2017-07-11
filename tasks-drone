@@ -1,0 +1,20 @@
+simulation >>>>> kinetic
+			>>>> indigo
+
+slam with kinect >>>>> communication >>>>> btw laptop and drone
+
+pi cam - getting video from pi cam from ros
+	   - setting up the different packages and packages for marker following
+	   - setting up the rpi on drone and calibrating the pi cam for image processing
+
+indoor environment setting 
+
+marker following 
+
+kinect in drone 
+
+mapping using manual control of drone
+
+navigation
+
+integration
